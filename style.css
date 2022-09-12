@@ -1,0 +1,13 @@
+#connectButton,#fundButton,#withdrawButton{
+    height: 50px;    
+    width:130px;
+    font-size:25px
+}
+#balancebutton {
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: lightgreen;
+}
